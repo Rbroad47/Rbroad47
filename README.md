@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Russell Broad 👋
+**Cybersecurity Professional (in transition from Safety & Risk Management)**  
+- 📚 Security+ (in progress)  
+- 🛡️ Focus: Governance, Risk, & Compliance (GRC)  
+- 🔍 Interests: Security Awareness Training, Risk Assessments, SOC monitoring  
+- 📂 Portfolio: [View My Projects](https://github.com/your-username?tab=repositories)  
 
-<!--
-**Rbroad47/Rbroad47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured Projects
+- **GRC Starter Kit** → Policies, standards, procedures  
+- **Log Analyzer** → Python script to parse Windows logs  
+- **Security Awareness Labs** → Training modules + phishing campaigns  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/your-link)  
+- [Email](mailto:your-email@example.com)  
