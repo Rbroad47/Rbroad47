@@ -3,7 +3,8 @@
 - 📚 Security+ (in progress)  
 - 🛡️ Focus: Governance, Risk, & Compliance (GRC)  
 - 🔍 Interests: Security Awareness Training, Risk Assessments, SOC monitoring  
-- 📂 Portfolio: [View My Projects](https://github.com/your-username?tab=repositories)  
+- 📂 Portfolio: [View My Projects](https://github.com/your-username?tab=repositories)
+- [![TryHackMe](assets/thm_propic.png)](https://tryhackme.com/p/rbroad)
 
 ## Featured Projects
 
