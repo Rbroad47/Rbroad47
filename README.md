@@ -4,10 +4,11 @@
 - 🛡️ Focus: Governance, Risk, & Compliance (GRC)  
 - 🔍 Interests: Security Awareness Training, Risk Assessments, SOC monitoring  
 - 📂 Portfolio: [View My Projects](https://github.com/your-username?tab=repositories)
-- [![TryHackMe](assets/thm_propic.png)](https://tryhackme.com/p/rbroad)
+
 
 ## Featured Projects
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/russellbroad)  
 - [Email](mailto:rbroad47@gmail.com)  
+- [![TryHackMe](assets/thm_propic.png)](https://tryhackme.com/p/rbroad)
