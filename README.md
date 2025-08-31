@@ -11,4 +11,4 @@
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/russellbroad)  
 - [Email](mailto:rbroad47@gmail.com)  
-- [![TryHackMe](assets/thm_propic.png)](https://tryhackme.com/p/rbroad)
+
