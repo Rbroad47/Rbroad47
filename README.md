@@ -1,5 +1,5 @@
 # Hi, I'm Russell Broad 👋
-**Cybersecurity Professional (in transition from Safety & Risk Management)**  
+** US NAVY Veteran, Cybersecurity Professional (in transition from Safety & Risk Management)**  
 - 📚 Security+ (in progress)  
 - 🛡️ Focus: Governance, Risk, & Compliance (GRC)  
 - 🔍 Interests: Security Awareness Training, Risk Assessments, SOC monitoring  
