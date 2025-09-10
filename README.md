@@ -11,4 +11,4 @@
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/rbroad47) 
 - [Email](mailto:rbroad47@gmail.com)  
-
+- [Medium](https://medium.com/@rbroad47)
