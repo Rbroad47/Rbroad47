@@ -42,6 +42,6 @@ I ran SOC 2 readiness for a mock consulting company, scoped to the Security crit
 
 ### 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rbroad47-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rbroad47)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-russellbroad47-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/russellbroad47)
 [![Medium](https://img.shields.io/badge/Medium-@rbroad47-000000?style=flat-square&logo=medium)](https://medium.com/@rbroad47)
 [![Email](https://img.shields.io/badge/Email-rbroad47%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rbroad47@gmail.com)
